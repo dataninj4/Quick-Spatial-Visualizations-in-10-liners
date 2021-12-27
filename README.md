@@ -1,4 +1,4 @@
-# Quick-Visualizations-in-10-liners
+# Quick-Spatial-Visualizations-in-10-liners
  
 using 
 - plotly express and geopandas to visualize 7 days incidence metric per county
